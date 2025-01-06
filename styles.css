@@ -32,6 +32,10 @@ h1 {
     display: block;
     margin: auto;
 }
+.square {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 h2 {
     color: blue;
@@ -42,6 +46,7 @@ h2 {
 .released {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .subimages {
