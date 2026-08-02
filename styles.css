@@ -126,8 +126,9 @@ h2 {
     padding:2px;
     background:white;
     border-radius:5px;
-    width: 300px;
+    width: 400px;
     justify-self: center;
+    margin-bottom: 14px;
     box-shadow:5px 8px lightslategray;
 }
 
